@@ -1,0 +1,8 @@
+<resource xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--7.0版本升级路径uri-->
+    <paths>
+        <external-files-path name="Download" path=""/>
+        <external-path name="Download" path="" />
+        <!--<root-path path="" name="Download" />-->
+    </paths>
+</resource>
